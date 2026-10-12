@@ -1,1 +1,1 @@
-worker: python smle_bot.py
+worker: python smle_support_bot.py
